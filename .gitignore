@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# comma seperated value files
+*.csv
+
+# models & logs
+/Homework/*/models
+/Homework/*/logs
+/Homework/*/runs
