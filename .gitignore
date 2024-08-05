@@ -108,5 +108,12 @@ venv.bak/
 
 # models & logs
 /Homework/*/models
+*.ckpt
 /Homework/*/logs
 /Homework/*/runs
+
+# Homework2 dataset
+/Homework/HW2_Classification/libriphone/*
+
+# vscode
+*.vscode
